@@ -24,4 +24,4 @@ def trianglePerimeter(xA, yA, xB, yB, xC, yC):
     perimeter=a+b+c  
     return perimeter
 
-print trianglePerimeter(1, 0, 2, 0, 1, 5)
+print trianglePerimeter(2, 0, 2, 0, 1, 5)
