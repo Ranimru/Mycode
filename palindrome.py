@@ -3,5 +3,5 @@ def isPalindrome(String):
       if String[s]!=String[(len(String)-1)-s]: 
           return False
    return True
-print(isPalindrome('haninah'))
+print(isPalindrome('ah'))
       
