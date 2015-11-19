@@ -15,7 +15,7 @@ def checkprime(x):
 
 
 
-Array=range(0,100)
+Array=range(0,1000)
 primearray=[]
 for x in Array:
     if checkprime(x)==True:
