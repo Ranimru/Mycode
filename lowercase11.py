@@ -12,7 +12,7 @@ def lowerString(string):
        result=result+lowerChar(string[s])
     return result
 
-print(lowerString("tEst arGument"))
+print(lowerString("gooD NigHt"))
    
 
       
