@@ -4,4 +4,4 @@ def prod(L):
     r*=i
    return r
 
-print (prod([7,5,2]))
+print (prod([9,5,2]))
