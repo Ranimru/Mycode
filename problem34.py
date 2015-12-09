@@ -14,7 +14,7 @@ def fac(S):
    return B 
 
 X=[]
-for x in range(3,1000000):
+for x in range(3,50000):
   
   l=str(x)
   M=[]
