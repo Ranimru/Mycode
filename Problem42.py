@@ -1,10 +1,11 @@
+List=['SKY','HI','ABC','NONE','A']
 words=[]
 def Trianglenumbers(n):
     TriangleNumbers=[]
     for i in range(1,n):
      t=(i*(i+1)/2)
      TriangleNumbers.append(t)
-    return L
+    return  TriangleNumbers
 
 import string
 alpha='#'
@@ -16,10 +17,10 @@ for word in List:
   index=alpha.index(character)
   wordindex.append(index)
  
- for s in t(1000):
+ for s in Trianglenumbers(1000):
   
   if sum(wordindex)==s:
    words.append(word)
 
-print words
-print len(words)
+print 'Triangle words are:',words
+print 'Number of words=',len(words)
