@@ -22,3 +22,11 @@ for x in Array:
         primearray.append(x)
 
 print primearray
+
+
+
+
+
+
+
+

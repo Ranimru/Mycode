@@ -1,4 +1,4 @@
-List=['SKY','HI','ABC','NONE','A']
+List=['SKY','HI','ABC','NONE','A','RANIM','ADHAM']
 words=[]
 def Trianglenumbers(n):
     TriangleNumbers=[]
